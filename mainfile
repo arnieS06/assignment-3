@@ -20,4 +20,6 @@ int main() {
     cout << "The first dice roll yields: " << firstDice << endl;
     cout << "The second dice roll yields: " << secondDice << endl;
 
+    return 0;
+
 }
